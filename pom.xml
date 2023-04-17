@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <spring.ver>5.3.19</spring.ver>
+    <spring.ver>5.3.27</spring.ver>
     <java.ver>1.6</java.ver>
   </properties>
 
